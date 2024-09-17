@@ -1,6 +1,6 @@
 # 🐾 Teste de API REST de Cadastro de Cães
 
-Este projeto implementa uma API RESTful utilizando Node.js e Express para realizar operações CRUD básicas. A API está conectada a um banco de dados MongoDB através do Mongoose, permitindo a modelagem e manipulação de dados com schemas.
+Este projeto implementa uma API REST utilizando Node.js e Express para realizar operações CRUD básicas. A API está conectada a um banco de dados MongoDB através do Mongoose, permitindo a modelagem e manipulação de dados com schemas.
 
 ## 🚀 Funcionalidades
 
