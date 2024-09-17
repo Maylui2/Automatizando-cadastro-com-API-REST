@@ -38,6 +38,20 @@ Este projeto implementa uma API REST utilizando Node.js e Express para realizar 
 - ![nodemon](https://github.com/user-attachments/assets/c9047c84-601f-4321-bc47-6d5b1ab09a11)
 
 
+## ⚙️ Boas práticas
+
+-Tentei ao máximo utilizar boas práticas de clean code utilizando Custom Commands no Cypress, criando comandos personalizados que podem ser reutilizados, evitando repetir código e deixando seus testes mais fáceis de entender.
+
+![Captura de tela 2024-09-17 182653](https://github.com/user-attachments/assets/97743936-753a-40ba-9cc3-6d33498c2eb3)
+
+-Realizei o uso de um plugin da NPM para garantir que os testes sejam isolados e executados em um ambiente controlado, evitando que dados anteriores afetem os próximos testes. (repare que na foto do Mongo temos somente 1 documento mesmo quando damos reload, sem isso os documentos ficam consumindo o banco e armazenando dados desnecessários.
+
+
+![Captura de tela 2024-09-17 183324](https://github.com/user-attachments/assets/3d4c4391-7246-4225-bc12-8df26db19d48)
+
+![Captura de tela 2024-09-17 183140](https://github.com/user-attachments/assets/43de30d7-7460-4e1b-a3f6-28c4a5d7bece)
+
+
 
 ## ⚙️ Tecnologias Utilizadas
 
